@@ -1,0 +1,8 @@
+data\DBConnector.class
+logic\Recipe.class
+presentation\SingleRecipeServlet.class
+data\FacadesData\RecipeDataFacade.class
+data\RecipeMapper.class
+logic\FacadesLogic\RecipeLogicFacade.class
+logic\Image.class
+logic\RecipeController.class

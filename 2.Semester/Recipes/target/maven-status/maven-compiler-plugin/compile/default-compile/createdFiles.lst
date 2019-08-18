@@ -1,0 +1,10 @@
+Presentation\UnknownCommand.class
+Data\DBConnector.class
+Presentation\Controller.class
+Presentation\RecipeCommand.class
+Presentation\RecipeServlet.class
+Data\Recipe.class
+Data\Ingredient.class
+Data\RecipeDAO.class
+Logic\RecipeConnector.class
+Presentation\Command.class

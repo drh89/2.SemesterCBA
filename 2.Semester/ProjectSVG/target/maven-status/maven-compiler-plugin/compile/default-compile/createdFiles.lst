@@ -1,0 +1,6 @@
+drawing\SVGDrawingCarport.class
+drawing\SVGDrawingFlag.class
+entity\Dimension.class
+drawing\SVGDrawingFOG.class
+drawing\SVGDrawingLego.class
+entity\Rectangle.class

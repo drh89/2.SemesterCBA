@@ -1,0 +1,5 @@
+roda\data\UserDAO.class
+roda\logic\Controller.class
+roda\data\User.class
+roda\presentation\FrontController.class
+roda\presentation\LoginServlet.class
